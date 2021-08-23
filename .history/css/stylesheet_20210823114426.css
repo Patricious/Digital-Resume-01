@@ -1,0 +1,65 @@
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-size: 100%;
+        background-color: #ffffff;
+        margin: 10px;
+        overflow-y: scroll;
+    }
+    
+    html {
+        border: 15px solid #304145;
+    }
+    
+    header {
+        text-align: center;
+        background-color: #304145;
+        color: #ffffff;
+        padding: 1em;
+    }
+    
+    aside {
+        background-color: #F1F1F3;
+        color: #304145;
+        width: 15%;
+        padding: 2em;
+        height: 150%;
+        float: left;
+        position: absolute;
+        flex: 0 0 auto;
+    }
+    
+    h3 {
+        text-decoration: underline;
+    }
+    
+    article {
+        padding: 2em;
+        margin-left: 20%;
+    }
+    
+    .profile {
+        border-radius: 100px;
+        border: 2px solid #F1F1F3;
+    }
+    
+    .circle {
+        border-radius: 100px;
+        padding: 5px;
+    }
+    
+    .nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    a {
+        color: #304145;
+    }
+    
+    footer {
+        background-color: #304145;
+        text-align: center;
+        color: #ffffff;
+        padding: 1em;
+    }

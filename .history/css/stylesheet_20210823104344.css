@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 110%;
+    background-color: #ffffff;
+    margin: 10px;
+}
+
+header {
+    text-align: center;
+    background-color: #304145;
+    color: #ffffff;
+    padding: 1em;
+}
+
+aside {
+    background-color: #F1F1F3;
+    color: #304145;
+    width: 15%;
+    padding: 2em;
+    height: 100%;
+    float: left;
+    position: absolute;
+    flex: 0 0 auto;
+}
+
+section {
+    float: left;
+}
